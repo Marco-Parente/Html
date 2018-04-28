@@ -1,1 +1,1 @@
-uajs
+alert('Hello World!')
