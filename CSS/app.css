@@ -1,1 +1,19 @@
-uasghf
+h1 {
+ border: 2px solid #0f0;
+ background-color: #234170;
+ color: white
+}
+
+img {
+ width: 33%;
+}
+
+#titulo {
+ color: white;
+ background-color: black
+}
+
+.estilo {
+ color: white;
+ background-color: black
+}
